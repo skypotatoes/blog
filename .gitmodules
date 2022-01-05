@@ -1,0 +1,4 @@
+[submodule "skypotatoesblog/public"]
+	path = skypotatoesblog/public
+	url = https://github.com/skypotatoes/skypotatoes.github.io.git
+	branch = main

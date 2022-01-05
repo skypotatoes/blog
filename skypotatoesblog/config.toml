@@ -1,0 +1,4 @@
+baseURL = 'https://skypotatoes.github.io/'
+languageCode = 'en-us'
+title = 'skypotatoes blog'
+theme="contrast-hugo"
