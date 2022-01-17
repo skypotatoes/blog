@@ -6,7 +6,7 @@ date: 2022-01-09T02:11:04Z
 I eventually solved this Kata and it's the first one I have come across which I didn't enjoy doing. I found the challenge to lack any consistency in what inputs were
 considered valid or invalid, and in the end it became a case of simply filtering out the edge cases through if-statements. It seemed entirely capricious as to why it
 wouldn't accept .5 but would accept .16, £1p was valid but £.70p wasn't - or maybe it was. I couldn't make sense of why some were acceptable and others not.
- I didn't see the point of this at all and while, at first, it was an interesting exercise in using
+I didn't see the point of this at all and while, at first, it was an interesting exercise in using
 regex, it became clear from how ridiculous the edge cases were that regex wouldn't be enough. Simply tweaking the if-statements to get round inconsistent rules around
 valid inputs wasn't a fun exercise and only served to annoy me. I'm glad I solved it, but only because I don't have to work on it anymore. I don't feel this was really
 a learning experience as other katas have been.

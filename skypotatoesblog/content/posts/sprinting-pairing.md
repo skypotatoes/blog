@@ -1,0 +1,7 @@
+---
+title: "Sprinting and Pairing"
+date: 2022-01-12T09:11:51Z
+---
+
+It's Wednesday today and, since Monday, the Northcoders bootcamp has been getting us into the rhythm of a morning lecture around 9am, followed by smaller seminar group lesson, and then 'sprinting' with a partner. A sprint is some particular coding exercise or set of exercises, to be completed within a given. At the moment they're throwing at us fairly simple but challenging problems while we get used to 'pairing',i.e. working as a pair. We alternate between the role of the Driver and the Navigator, the Driver being responsible for the coding itself and the Navigator setting the direction and giving essentially the pseudo-code which the Driver is then responsible for translating into actual code, in our case in the JavaScript language. In practice, you tend to look at the problem together, fairly quickly reach agreement as to how it is solved, then the Driver sets to work. Having done most of my coding so far in privacy and solitude, it feels strange suddenly coding in front of someone else. There is a certain performance anxiety to get over. The role of the Navigator, by contrast, is quite relaxing and is a form of backseat coding wherein you get to spot the typos and explain how to do something without having to do the grunt work of coding it yourself. I try not to micromanage too much in this role because I feel so put off myself by someone watching me code while I'm 'Driving'.
+
